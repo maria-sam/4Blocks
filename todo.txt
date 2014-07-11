@@ -1,0 +1,6 @@
+- Get it to recognize color (animation frame)
+- Add home screen
+- Title
+- Score
+- Timer
+- If time: share on fb
